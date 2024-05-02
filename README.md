@@ -1,9 +1,9 @@
-#Chain Of Custody
+# Chain Of Custody
 Group: Gryffindor 
 
 Members: Sathwik Reddy Mopuru, Amal Shifwath Shaik, Kruthi Tirunagari, Tushmi Sharma, Salman Rahman 
 
-##Implementation:
+## Implementation:
 Install Fabric and Fabric Samples
 
 **mkdir fabric**
